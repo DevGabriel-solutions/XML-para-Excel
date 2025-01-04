@@ -1,5 +1,6 @@
 # XML-para-Excel
-Dados das notas fiscais sendo transportados para o Excel através desse código.
+// Dados das notas fiscais sendo transportados para o Excel através desse código.
+
 import xmltodict
 import os
 import pandas as pd
